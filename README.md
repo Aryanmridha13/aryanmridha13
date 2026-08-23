@@ -46,21 +46,36 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
-I'm a B.Tech Computer Science Engineering graduate and Software Developer  passionate about building modern, scalable, and user-focused web applications.
+<p>
+I'm a <strong>B.Tech Computer Science Engineering graduate</strong> and 
+<strong>Software Developer</strong> passionate about building 
+<strong>modern, scalable, and user-focused web applications.</strong>
+</p>
 
-💻 I specialize in Full Stack Web Development, with hands-on experience in Python, Django, Django REST Framework, React.js, JavaScript, HTML, CSS, Tailwind CSS, and MySQL.
+<p>
+💻 I specialize in <strong>Full Stack Web Development</strong>, with hands-on
+experience in <strong>Python, Django, Django REST Framework, React.js,
+JavaScript, HTML, CSS, Tailwind CSS, and MySQL.</strong>
+</p>
 
-🚀 I enjoy turning ideas into complete applications — from designing responsive user interfaces and building REST APIs to managing databases and connecting frontend applications with backend services.
+<p>
+🚀 I enjoy turning ideas into complete applications — from designing
+responsive user interfaces and building REST APIs to managing databases
+and connecting frontend applications with backend services.
+</p>
 
-🛠️ What I Do
-💻 Build Full Stack Web Applications using React.js, Django & REST APIs
-🐍 Develop backend applications with Python & Django REST Framework
-⚛️ Create responsive and interactive UIs using React.js, JavaScript, HTML, CSS & Tailwind CSS
-🔗 Design and integrate RESTful APIs
-🗄️ Work with MySQL, SQLite, MongoDB & SQL
-🔐 Implement application features such as authentication, CRUD operations & API integration
-🔧 Use Git & GitHub for version control and project management
-🚀 Explore deployment, cloud technologies & modern development practices
-🧩 Practice Data Structures, Algorithms & Problem Solving
+<h3>🛠️ What I Do</h3>
+
+<ul>
+  <li>💻 Build <strong>Full Stack Web Applications</strong> using React.js, Django & REST APIs</li>
+  <li>🐍 Develop backend applications with <strong>Python & Django REST Framework</strong></li>
+  <li>⚛️ Create responsive and interactive UIs using <strong>React.js, JavaScript, HTML, CSS & Tailwind CSS</strong></li>
+  <li>🔗 Design and integrate <strong>RESTful APIs</strong></li>
+  <li>🗄️ Work with <strong>MySQL, SQLite, MongoDB & SQL</strong></li>
+  <li>🔐 Implement application features such as <strong>authentication, CRUD operations & API integration</strong></li>
+  <li>🔧 Use <strong>Git & GitHub</strong> for version control and project management</li>
+  <li>🚀 Explore <strong>deployment, cloud technologies & modern development practices</strong></li>
+  <li>🧩 Practice <strong>Data Structures, Algorithms & Problem Solving</strong></li>
+</ul>
