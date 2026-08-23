@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 <h3 align="center">
-  💻 Software Developer Fresher | Full Stack Developer | Python & React.js
+  💻 Software Developer | Full Stack Developer | Python & React.js
 </h3>
 
 <p align="center">
@@ -45,3 +45,22 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+
+👨‍💻 About Me
+
+I'm a B.Tech Computer Science Engineering graduate and Software Developer  passionate about building modern, scalable, and user-focused web applications.
+
+💻 I specialize in Full Stack Web Development, with hands-on experience in Python, Django, Django REST Framework, React.js, JavaScript, HTML, CSS, Tailwind CSS, and MySQL.
+
+🚀 I enjoy turning ideas into complete applications — from designing responsive user interfaces and building REST APIs to managing databases and connecting frontend applications with backend services.
+
+🛠️ What I Do
+💻 Build Full Stack Web Applications using React.js, Django & REST APIs
+🐍 Develop backend applications with Python & Django REST Framework
+⚛️ Create responsive and interactive UIs using React.js, JavaScript, HTML, CSS & Tailwind CSS
+🔗 Design and integrate RESTful APIs
+🗄️ Work with MySQL, SQLite, MongoDB & SQL
+🔐 Implement application features such as authentication, CRUD operations & API integration
+🔧 Use Git & GitHub for version control and project management
+🚀 Explore deployment, cloud technologies & modern development practices
+🧩 Practice Data Structures, Algorithms & Problem Solving
