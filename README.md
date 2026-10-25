@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <!-- <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a> -->
+   <a href="https://portfolio-six-tawny-5qtx827ssb.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/aryan-mridha-0516a5354/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
